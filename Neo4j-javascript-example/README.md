@@ -1,4 +1,4 @@
-!! set your db password in driver.js !!
+# !! set your db password in driver.js !!
 # npm i
 # npm start for starting server on local host 5545
 
