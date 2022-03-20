@@ -12,5 +12,5 @@
 ## POST http://localhost:5545/games -> add game in the body => {"team1":"team1 name","team2":"team2 name","competition":"competition name","score":"score"}
 
 
-![alt text](http://url/to/graph.svg)
-
+![graph](./graph.svg)
+<img src="./graph">
